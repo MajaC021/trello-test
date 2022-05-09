@@ -1,0 +1,9 @@
+{
+    "createNewBoard": "[id='new-board']",
+    "createNewBoardInput": "[id='new-board'] > input",
+    "saveNewBoardButton": "[class='board_options'] > button",
+    "cancelCreateNewBoard" : "[class='board_options'] > svg",
+    "optionsBoardDropdown": "[data-cy='optionsBoardDropdown']",
+    "copyBoardDropdown": "[data-cy='copyDropdown']",
+    "deleteBoardDropdown": "div[id='myDropdown'] > span[class='delete']"
+}
