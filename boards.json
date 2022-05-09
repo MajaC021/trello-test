@@ -5,5 +5,5 @@
     "cancelCreateNewBoard" : "[class='board_options'] > svg",
     "optionsBoardDropdown": "[data-cy='optionsDropdown']",
     "copyBoardDropdown": "[data-cy='copyDropdown']",
-    "deleteBoardDropdown": "div[id='myDropdown'] > span[class='delete']"
+    "deleteBoardDropdown": "[data-cy='deleteBoardDropdown']"
 }
