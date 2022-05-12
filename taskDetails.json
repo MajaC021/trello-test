@@ -3,9 +3,9 @@
     "saveTaskDescButton": "[class='TaskModule_options'] > button",
     "cancelTaskDesc": "[class='TaskModule_options'] > svg",
     "chooseDate": "[type='Date']",
-    "uploadImage": "[class='dz-message']",
-    "optionsTaskDropdown": "[data-cy='optionsDropdown']",
-    "closeTaskDropdown": "[data-cy='closeDropdown']",
-    "copyTaskDropdown": "[data-cy='copyDropdown']",
-    "deleteTaskDropdown": "[data-cy='deleteDropdown']"
+    "uploadImage": ".dz-message",
+    "optionsTaskDropdown": "[class='TaskModule_exit'] [class='dropdown'] > svg",
+    "closeTaskDropdown": "[class='TaskModule_exit'] [id='myDropdown'] > span",
+    "copyTaskDropdown": "[class='TaskModule_exit'] [id='myDropdown'] > span",
+    "deleteTaskDropdown": "[class='TaskModule_exit'] [id='myDropdown'] [class='delete']"
 }

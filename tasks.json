@@ -1,8 +1,8 @@
 {
     "addNewTask": "[class='List_addTask']",
-    "checkTask": "[data-cy='checkTask']",
+    "checkTask": "[class='Task'] [type='checkbox']",
     "newTaskTitle": "[data-id='newTaskTitle']",
     "addTaskTitleButton": "[class='List_newTaskOptions'] button[class='Button']",
     "cancelButton": "[class='List_newTaskOptions'] svg[class='Cancel']",
-    "clickTaskDetails": "[class='Task']"
+    "clickTaskDetails": "[class='List_newTaskOptions'] > svg"
 }

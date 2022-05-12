@@ -3,7 +3,7 @@
     "createNewBoardInput": "[id='new-board'] > input",
     "saveNewBoardButton": "[class='board_options'] > button",
     "cancelCreateNewBoard" : "[class='board_options'] > svg",
-    "optionsBoardDropdown": "[data-cy='optionsDropdown']",
-    "copyBoardDropdown": "[data-cy='copyDropdown']",
-    "deleteBoardDropdown": "[data-cy='deleteBoardDropdown']"
+    "optionsBoardDropdown": "[class='boardDetail_info'] > div > svg",
+    "copyBoardDropdown": "div[class='boardDetail_info'] div > span", 
+    "deleteBoardDropdown": "[class='boardDetail_info'] [class='delete']"
 }

@@ -1,9 +1,9 @@
 {
-    "optionsListDropdown" : "[data-cy='optionsListDropdown']",
-    "deleteListDropdown": "[data-cy='deleteListDropdown']",
-    "copyListDropdown": "[data-cy='copyListDropdown']",
+    "optionsListDropdown" : "div[class='ListContainer']  div[class='dropdown'] > svg",
+    "deleteListDropdown": "div[class='ListContainer'] [class='delete']",
+    "copyListDropdown": "div[class='ListContainer'] div > span",
     "createListClick": "[class = 'CreateList'] > h3",
     "createListInput": "input[class='CreateList_input']",
     "saveListButton": "div[class = 'ListContainer'] button[class='Button']",
-    "cancelListButton": "[data-cy='cancelList']"
+    "cancelListButton": "[class='CreateList_options'] [class='Cancel']" 
 }
