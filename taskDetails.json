@@ -1,0 +1,11 @@
+{
+    "addTaskDesc": "[class='TaskModule_description']",
+    "saveTaskDescButton": "[class='TaskModule_options'] > button",
+    "cancelTaskDesc": "[class='TaskModule_options'] > svg",
+    "chooseDate": "[type='Date']",
+    "uploadImage": "[class='dz-message']",
+    "optionsTaskDropdown": "[data-cy='optionsDropdown']",
+    "closeTaskDropdown": "[data-cy='closeDropdown']",
+    "copyTaskDropdown": "[data-cy='copyDropdown']",
+    "deleteTaskDropdown": "[data-cy='deleteDropdown']"
+}

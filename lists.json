@@ -1,0 +1,9 @@
+{
+    "optionsListDropdown" : "[data-cy='optionsListDropdown']",
+    "deleteListDropdown": "[data-cy='deleteListDropdown']",
+    "copyListDropdown": "[data-cy='copyListDropdown']",
+    "createListClick": "[class = 'CreateList'] > h3",
+    "createListInput": "input[class='CreateList_input']",
+    "saveListButton": "div[class = 'ListContainer'] button[class='Button']",
+    "cancelListButton": "[data-cy='cancelList']"
+}
