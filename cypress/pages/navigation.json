@@ -1,0 +1,6 @@
+{
+    "loginButton" : "[data-name='Layer 1']",
+    "logoutDropdown": "[class='Nav_user Nav_button']",
+    "logoutButtomn": "[id='myDropdown'] > span"
+
+}

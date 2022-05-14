@@ -1,6 +1,0 @@
-{
-    "emailInput": "[id='loginEmail']",
-    "passwordInput": "[id='loginPassword']",
-    "loginButton": "[class='LoginModule_buttons'] > buttons",
-    "singUpButton" : "[data-cy='singUpLogin']"
-}

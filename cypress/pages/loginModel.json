@@ -1,0 +1,7 @@
+{
+    "emailInput": "[id='loginEmail']",
+    "passwordInput": "[id='loginPassword']",
+    "loginButton": "[class='LoginModule_buttons'] > buttons",
+    "singUpButton" : "[class='LoginModule_logSignSwitch'] > a"
+
+}
